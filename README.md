@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -1506,3 +1507,4 @@ function visualizeWaveform(){
     display: none;
   }
 </style>
+```
